@@ -1,2 +1,2 @@
-# devops-learning
+# devops-homeworks
 Домашние задания DevOps
